@@ -13,6 +13,7 @@ show_help() {
   echo "  --help         Show this help menu"
   echo "  --gitleaks     Install and guide for Gitleaks (Secret Detection)"
   echo "  --gitleaks scan  Run Gitleaks to scan for secrets and generate a report"
+  echo "  --gitleaks scan-text  Run Gitleaks to scan for secrets in your text"
   echo "  --docker       Install and guide for Docker (Containerization)"
   echo "---------------------------------"
   echo ""
