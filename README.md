@@ -9,21 +9,23 @@ Welcome to AnythingOps 1.0 – a powerful command-line tool designed to make a d
 Follow these steps to install AnythingOps:
 
 Clone the repository
-git clone <repository-url>
+`git clone <repository-url>`
 
 Navigate to the directory
-cd anythingops
+`cd anythingops`
 
 Make the script executable
-chmod +x anythingops
+`chmod +x anythingops`
 
 Move it to a directory in your system's PATH
-sudo mv anythingops /usr/local/bin/
+`sudo mv anythingops /usr/local/bin/`
+
 🏁 Getting Started
 
 Once installed, you can start exploring AnythingOps by running:
 
-anythingops --help
+`anythingops --help`
+
 This will display all available commands and their usage.
 
 🔧 Features & Commands
