@@ -12,7 +12,7 @@ Clone the repository
 `git clone https://github.com/anythingops/AnythingOps.git`
 
 Navigate to the directory
-`cd anythingops`
+`cd Anythingops`
 
 Make the script executable
 `chmod +x anythingops`
