@@ -9,7 +9,7 @@ Welcome to AnythingOps 1.0 – a powerful command-line tool designed to make a d
 Follow these steps to install AnythingOps:
 
 Clone the repository
-`git clone <repository-url>`
+`git clone https://github.com/anythingops/AnythingOps.git`
 
 Navigate to the directory
 `cd anythingops`
