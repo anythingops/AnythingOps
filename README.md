@@ -44,7 +44,7 @@ We welcome contributions! Feel free to open issues and submit pull requests to i
 
 AnythingOps is open-source and available under the MAKO License.
 
-Start simplifying your workflow today with **AnythingOps 1.0! 🎯
+Start simplifying your workflow today with AnythingOps 1.0! 🎯
 
 <!--
 **anythingops/AnythingOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
