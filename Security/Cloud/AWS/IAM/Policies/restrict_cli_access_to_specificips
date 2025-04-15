@@ -1,0 +1,20 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Deny",
+            "Action": "*",
+            "Resource": "*",
+            "Condition": {
+                "BoolIfExists": {
+                    "aws:ViaAWSService": "true"
+                },
+                "NotIpAddressIfExists": {
+                    "aws:SourceIp": [
+                        "<source-ip>"
+                    ]
+                }
+            }
+        }
+    ]
+}
